@@ -7,3 +7,11 @@ print(a*b)
 print(a/b)
 print(a%b)
 print(a**b)
+
+#Relational/Comparison
+print(a>b)
+print(a>=b)
+print(a<b)
+print(a<=b)
+print(a==b)
+print(a!=b)
