@@ -1,5 +1,5 @@
-a=10
-b=20
+a=int(input("Enter value for a: "))
+b=int(input("Enter value for b: "))
 
 avg=(a+b)/2
-print(avg)
+print("Average of a & b is:", avg)
